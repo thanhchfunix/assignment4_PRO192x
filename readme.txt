@@ -25,7 +25,6 @@ IDE: eclipse(ver 4.10)
 							Kết thúc quá trình sửa thông tin nhân viên sẽ được cập nhật trong file (data.txt).
 							Nếu ID hoặc name không tồn tại sẽ hiển thị thông báo tương ứng.
 					6. Exit.
-					7. trọng sửa code
 3. Thực thi Junit Test cho 2 nghiệp vụ cơ bản của chương trình
 	- Tính lương - Staff/Teacher getSalary(): GetSalaryTest.java
 	- Tìm kiếm nhân viên: EmployeeManagement.searchByName (SearchByNameTest.java)
