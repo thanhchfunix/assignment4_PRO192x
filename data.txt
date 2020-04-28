@@ -1,0 +1,4 @@
+Staff, 2, Hoàng Tùng, IT, STAFF, 30.0, 29, 500.0, 23270.0
+Staff, 1, Nguyễn Huân, IT, STAFF, 12.0, 34, 500.0, 10280.0
+Teacher, 3, Phan Hương, Toán, MASTER, 19.0, 35, 500.0, 15945.0
+Teacher, 4, Phan Hải, Toán, MASTER, 16.0, 4, 500.0, 12360.0
